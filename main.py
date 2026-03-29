@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-st.set_page_config(page_title="AI Resume Analyser", page_icon="📄", layout="centered")
+st.set_page_config(page_title="CV Assessor", page_icon="📄", layout="centered")
 
 st.title("CV Assessor")
 st.markdown("""
