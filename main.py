@@ -9,7 +9,7 @@ load_dotenv()
 
 st.set_page_config(page_title="AI Resume Analyser", page_icon="📄", layout="centered")
 
-st.title("AI Resume Analyser")
+st.title("CV Assessor")
 st.markdown("""
 Upload your resume in PDF format, and let our AI analyze it for key skills, experience, and areas of improvement.
 """)
