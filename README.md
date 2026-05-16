@@ -4,9 +4,7 @@ An AI-powered resume analysis tool that provides intelligent feedback on your CV
 
 ---
 
-## 🔗 Live Link
-
-> **Note:** This application is designed to run locally. For deployment options, see the [Installation](#-installation-steps) section.
+## 🔗 Live Link :- https://ai-resume-analyser-dgz8.onrender.com/
 
 ---
 
@@ -274,11 +272,6 @@ We welcome contributions from the community! Here's how you can help:
 - **Feature Requests**: Explain the use case and expected behavior
 - **Questions**: Use GitHub Discussions for general questions
 
----
-
-## 📄 License
-
-This project is open source and available under the MIT License. See the LICENSE file for details.
 
 ---
 
