@@ -1,4 +1,4 @@
-# 📄 Resume Analyser
+# 📄 CV Assessor
 
 An AI-powered resume analysis tool that provides intelligent feedback on your CV using advanced language models. Upload your resume and get comprehensive analysis on content clarity, skills presentation, and targeted improvement suggestions for specific job roles.
 
